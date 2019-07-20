@@ -1,0 +1,577 @@
+[
+    {
+        "id": 1,
+        "dapan": "BEN",
+        "linkanh": "BEN"
+    },
+    {
+        "id": 2,
+        "dapan": "ROOK",
+        "linkanh": "ROOK"
+    },
+    {
+        "id": 3,
+        "dapan": "GWENDOLYN",
+        "linkanh": "GWENDOLYN"
+    },
+    {
+        "id": 4,
+        "dapan": "KEVIN",
+        "linkanh": "KEVIN"
+    },
+    {
+        "id": 5,
+        "dapan": "MAX",
+        "linkanh": "MAX"
+    },
+    {
+        "id": 6,
+        "dapan": "PATELLIDAY",
+        "linkanh": "PATELLIDAY"
+    },
+    {
+        "id": 7,
+        "dapan": "MOLLY",
+        "linkanh": "MOLLY"
+    },
+    {
+        "id": 8,
+        "dapan": "HOBBLE",
+        "linkanh": "HOBBLE"
+    },
+    {
+        "id": 9,
+        "dapan": "ARNUX",
+        "linkanh": "ARNUX"
+    },
+    {
+        "id": 10,
+        "dapan": "ZORIAN",
+        "linkanh": "ZORIAN"
+    },
+    {
+        "id": 11,
+        "dapan": "LUCY",
+        "linkanh": "LUCY"
+    },
+    {
+        "id": 12,
+        "dapan": "ALAN",
+        "linkanh": "ALAN"
+    },
+    {
+        "id": 13,
+        "dapan": "MANNY",
+        "linkanh": "MANNY"
+    },
+    {
+        "id": 14,
+        "dapan": "MAGISTRATA",
+        "linkanh": "MAGISTRATA"
+    },
+    {
+        "id": 15,
+        "dapan": "WAT-SENN",
+        "linkanh": "WAT-SENN"
+    },
+    {
+        "id": 16,
+        "dapan": "SCOUT",
+        "linkanh": "SCOUT"
+    },
+    {
+        "id": 17,
+        "dapan": "JERRY",
+        "linkanh": "JERRY"
+    },
+    {
+        "id": 18,
+        "dapan": "MORTY",
+        "linkanh": "MORTY"
+    },
+    {
+        "id": 19,
+        "dapan": "BRYK",
+        "linkanh": "BRYK"
+    },
+    {
+        "id": 20,
+        "dapan": "BROMEBA",
+        "linkanh": "BROMEBA"
+    },
+    {
+        "id": 21,
+        "dapan": "STICK-DOUG",
+        "linkanh": "STICKDOUG"
+    },
+    {
+        "id": 22,
+        "dapan": "ROBUCKET",
+        "linkanh": "ROBUCKET"
+    },
+    {
+        "id": 23,
+        "dapan": "CHORTLE",
+        "linkanh": "CHORTLE"
+    },
+    {
+        "id": 24,
+        "dapan": "LEADFOOT",
+        "linkanh": "LEADFOOT"
+    },
+    {
+        "id": 25,
+        "dapan": "ELLIOT",
+        "linkanh": "ELLIOT"
+    },
+    {
+        "id": 26,
+        "dapan": "WASHINGTON",
+        "linkanh": "WASHINGTON"
+    },
+    {
+        "id": 27,
+        "dapan": "SKURD",
+        "linkanh": "SKURD"
+    },
+    {
+        "id": 28,
+        "dapan": "ZED",
+        "linkanh": "ZED"
+    },
+    {
+        "id": 29,
+        "dapan": "ARGIT",
+        "linkanh": "ARGIT"
+    },
+    {
+        "id": 30,
+        "dapan": "BAUMANN",
+        "linkanh": "BAUMANN"
+    },
+    {
+        "id": 31,
+        "dapan": "PAKMAR",
+        "linkanh": "PAKMAR"
+    },
+    {
+        "id": 32,
+        "dapan": "ESTER",
+        "linkanh": "ESTER"
+    },
+    {
+        "id": 33,
+        "dapan": "PARADOX",
+        "linkanh": "PARADOX"
+    },
+    {
+        "id": 34,
+        "dapan": "KAI",
+        "linkanh": "KAI"
+    },
+    {
+        "id": 35,
+        "dapan": "SANDRA",
+        "linkanh": "SANDRA"
+    },
+    {
+        "id": 36,
+        "dapan": "JIMMY",
+        "linkanh": "JIMMY"
+    },
+    {
+        "id": 37,
+        "dapan": "RAD",
+        "linkanh": "RAD"
+    },
+    {
+        "id": 38,
+        "dapan": "ROOK-DA",
+        "linkanh": "ROOKDA"
+    },
+    {
+        "id": 39,
+        "dapan": "ROOK-BRALLA",
+        "linkanh": "ROOKBRALLA"
+    },
+    {
+        "id": 40,
+        "dapan": "ROOK-SHAR",
+        "linkanh": "ROOKSHAR"
+    },
+    {
+        "id": 41,
+        "dapan": "ROOK-BEN",
+        "linkanh": "ROOKBEN"
+    },
+    {
+        "id": 42,
+        "dapan": "ROOK-SHIM",
+        "linkanh": "ROOKSHIM"
+    },
+    {
+        "id": 43,
+        "dapan": "RAYONA",
+        "linkanh": "RAYONA"
+    },
+    {
+        "id": 44,
+        "dapan": "KUNDO",
+        "linkanh": "KUNDO"
+    },
+    {
+        "id": 45,
+        "dapan": "AZMUTH",
+        "linkanh": "AZMUTH"
+    },
+    {
+        "id": 46,
+        "dapan": "DRIBA",
+        "linkanh": "DRIBA"
+    },
+    {
+        "id": 47,
+        "dapan": "BLUKIC",
+        "linkanh": "BLUKIC"
+    },
+    {
+        "id": 48,
+        "dapan": "LUHLEY",
+        "linkanh": "LUHLEY"
+    },
+    {
+        "id": 49,
+        "dapan": "CHADZMUTH",
+        "linkanh": "CHADZMUTH"
+    },
+    {
+        "id": 50,
+        "dapan": "Y-IT",
+        "linkanh": "YIT"
+    },
+    {
+        "id": 51,
+        "dapan": "FERGI",
+        "linkanh": "FERGI"
+    },
+    {
+        "id": 52,
+        "dapan": "DUFFY",
+        "linkanh": "DUFFY"
+    },
+    {
+        "id": 53,
+        "dapan": "GALVAN-MAJOR",
+        "linkanh": "GALVANMAJOR"
+    },
+    {
+        "id": 54,
+        "dapan": "ALBEDO",
+        "linkanh": "ALBEDO"
+    },
+    {
+        "id": 55,
+        "dapan": "LOOMA",
+        "linkanh": "LOOMA"
+    },
+    {
+        "id": 56,
+        "dapan": "GAR",
+        "linkanh": "GAR"
+    },
+    {
+        "id": 57,
+        "dapan": "GORVAN",
+        "linkanh": "GORVAN"
+    },
+    {
+        "id": 58,
+        "dapan": "PRIEST",
+        "linkanh": "PRIEST"
+    },
+    {
+        "id": 59,
+        "dapan": "BAHRVAD",
+        "linkanh": "BAHRVAD"
+    },
+    {
+        "id": 60,
+        "dapan": "SAND-RIPPERS",
+        "linkanh": "SANDRIPPERS"
+    },
+    {
+        "id": 61,
+        "dapan": "ATTEA",
+        "linkanh": "ATTEA"
+    },
+    {
+        "id": 62,
+        "dapan": "MILLEOUS",
+        "linkanh": "MILLEOUS"
+    },
+    {
+        "id": 63,
+        "dapan": "PSYCHOBOS",
+        "linkanh": "PSYCHOBOS"
+    },
+    {
+        "id": 64,
+        "dapan": "RAFF",
+        "linkanh": "RAFF"
+    },
+    {
+        "id": 65,
+        "dapan": "SEVENSEVEN",
+        "linkanh": "SEVENSEVEN"
+    },
+    {
+        "id": 66,
+        "dapan": "EIGHTEIGHT",
+        "linkanh": "EIGHTEIGHT"
+    },
+    {
+        "id": 67,
+        "dapan": "TWOTWO",
+        "linkanh": "TWOTWO"
+    },
+    {
+        "id": 68,
+        "dapan": "BEZEL",
+        "linkanh": "BEZEL"
+    },
+    {
+        "id": 69,
+        "dapan": "XAGLIV",
+        "linkanh": "XAGLIV"
+    },
+    {
+        "id": 70,
+        "dapan": "ANICETO",
+        "linkanh": "ANICETO"
+    },
+    {
+        "id": 71,
+        "dapan": "MARGIE",
+        "linkanh": "MARGIE"
+    },
+    {
+        "id": 72,
+        "dapan": "MINO-TOGA",
+        "linkanh": "MINO-TOGA"
+    },
+    {
+        "id": 73,
+        "dapan": "CHARMCASTER",
+        "linkanh": "CHARMCASTER"
+    },
+    {
+        "id": 74,
+        "dapan": "DARKSTAR",
+        "linkanh": "DARKSTAR"
+    },
+    {
+        "id": 75,
+        "dapan": "ADDWAITYA",
+        "linkanh": "ADDWAITYA"
+    },
+    {
+        "id": 76,
+        "dapan": "STONE",
+        "linkanh": "STONE"
+    },
+    {
+        "id": 77,
+        "dapan": "SKAYR",
+        "linkanh": "SKAYR"
+    },
+    {
+        "id": 78,
+        "dapan": "VIKTOR",
+        "linkanh": "VIKTOR"
+    },
+    {
+        "id": 79,
+        "dapan": "KUPHULU",
+        "linkanh": "KUPHULU"
+    },
+    {
+        "id": 80,
+        "dapan": "LORD-TRANSYL",
+        "linkanh": "LORDTRANSYL"
+    },
+    {
+        "id": 81,
+        "dapan": "ECTONURITE",
+        "linkanh": "ECTONURITE"
+    },
+    {
+        "id": 82,
+        "dapan": "PUMPKINS",
+        "linkanh": "PUMPKINS"
+    },
+    {
+        "id": 83,
+        "dapan": "PSYPHON",
+        "linkanh": "PSYPHON"
+    },
+    {
+        "id": 84,
+        "dapan": "THUNDERPIG",
+        "linkanh": "THUNDERPIG"
+    },
+    {
+        "id": 85,
+        "dapan": "SWEET-EELS",
+        "linkanh": "SWEET-EELS"
+    },
+    {
+        "id": 86,
+        "dapan": "BUG-LITE",
+        "linkanh": "BUG-LITE"
+    },
+    {
+        "id": 87,
+        "dapan": "HOODED-ALIEN",
+        "linkanh": "HOODEDALIEN"
+    },
+    {
+        "id": 88,
+        "dapan": "BOUNCERS",
+        "linkanh": "BOUNCERS"
+    },
+    {
+        "id": 89,
+        "dapan": "BUBBLE-HELMET",
+        "linkanh": "BUBBLEHELMET"
+    },
+    {
+        "id": 90,
+        "dapan": "LIAM",
+        "linkanh": "LIAM"
+    },
+    {
+        "id": 91,
+        "dapan": "SUNDER",
+        "linkanh": "SUNDER"
+    },
+    {
+        "id": 92,
+        "dapan": "TUMMYHEAD",
+        "linkanh": "TUMMYHEAD"
+    },
+    {
+        "id": 93,
+        "dapan": "KRAAB",
+        "linkanh": "KRAAB"
+    },
+    {
+        "id": 94,
+        "dapan": "CHADWICK",
+        "linkanh": "CHADWICK"
+    },
+    {
+        "id": 95,
+        "dapan": "MORTON",
+        "linkanh": "MORTON"
+    },
+    {
+        "id": 96,
+        "dapan": "FOREVER-NINJA",
+        "linkanh": "FOREVERNINJA"
+    },
+    {
+        "id": 97,
+        "dapan": "COMEDY",
+        "linkanh": "COMEDY"
+    },
+    {
+        "id": 98,
+        "dapan": "SERVANTIS",
+        "linkanh": "SERVANTIS"
+    },
+    {
+        "id": 99,
+        "dapan": "SWIFT",
+        "linkanh": "SWIFT"
+    },
+    {
+        "id": 100,
+        "dapan": "MAZUMA",
+        "linkanh": "MAZUMA"
+    },
+    {
+        "id": 101,
+        "dapan": "NESMITH",
+        "linkanh": "NESMITH"
+    },
+    {
+        "id": 102,
+        "dapan": "HARANGUE",
+        "linkanh": "HARANGUE"
+    },
+    {
+        "id": 103,
+        "dapan": "PARRY",
+        "linkanh": "PARRY"
+    },
+    {
+        "id": 104,
+        "dapan": "SCELES",
+        "linkanh": "SCELES"
+    },
+    {
+        "id": 105,
+        "dapan": "ANIMO",
+        "linkanh": "ANIMO"
+    },
+    {
+        "id": 106,
+        "dapan": "ARGOST",
+        "linkanh": "ARGOST"
+    },
+    {
+        "id": 107,
+        "dapan": "MUNYA",
+        "linkanh": "MUNYA"
+    },
+    {
+        "id": 108,
+        "dapan": "FROG",
+        "linkanh": "FROG"
+    },
+    {
+        "id": 109,
+        "dapan": "SNAIL",
+        "linkanh": "SNAIL"
+    },
+    {
+        "id": 110,
+        "dapan": "ANTS",
+        "linkanh": "ANTS"
+    },
+    {
+        "id": 111,
+        "dapan": "MOSQUITO",
+        "linkanh": "MOSQUITO"
+    },
+    {
+        "id": 112,
+        "dapan": "GIRAFFE",
+        "linkanh": "GIRAFFE"
+    },
+    {
+        "id": 113,
+        "dapan": "ZOMBOZO",
+        "linkanh": "ZOMBOZO"
+    },
+    {
+        "id": 114,
+        "dapan": "THUMBSKULL",
+        "linkanh": "THUMBSKULL"
+    },
+    {
+        "id": 115,
+        "dapan": "SEEBIK",
+        "linkanh": "SEEBIK"
+    }
+]
